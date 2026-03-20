@@ -1,18 +1,14 @@
-# AutoLead Ultra
 
-Sistema profissional de garimpo de carros em marketplaces.
+# AutoLead Ultra (Railway Ready)
 
-## Features
-
-- Scraping OLX
-- Estrutura para Facebook Marketplace
-- Proxy rotativo
-- Detecção de oportunidades
-- Painel web
-- Worker de scraping contínuo
+Projeto pronto para deploy automático no Railway.
 
 ## Deploy
 
-Frontend -> Vercel
-Backend -> Railway
-Database -> Supabase
+1. Suba no GitHub
+2. Conecte no Railway
+3. Deploy automático
+
+## API
+
+GET /api/vehicles

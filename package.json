@@ -1,7 +1,8 @@
+
 {
   "name": "auto-lead-ultra",
   "version": "1.0.0",
-  "private": true,
+  "main": "apps/api/src/server.js",
   "scripts": {
     "start": "node apps/api/src/server.js"
   },
